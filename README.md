@@ -1,29 +1,5 @@
-# manage-system
+# vue2_manage-system
 
-## Project setup
-```
-npm install
-```
+## 项目介绍
+基于vue2实现的后台管理系统，带有登录页面和后台页面，本身是学习vue时的练习项目，基本以实现功能和学习vue为目的
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
